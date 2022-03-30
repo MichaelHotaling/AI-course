@@ -4,7 +4,9 @@
   url: /about/
 - title: Archive
   url: /archive/
-- title: Download
-  url: https://github.com/rkuo2000/AI-workshop/archive/refs/heads/master.zip
+- title: Projects
+  url: /projects/
+- title: Blog
+  url = /blog/
 - title: GitHub
   url: https://github.com/MichaelHotaling
