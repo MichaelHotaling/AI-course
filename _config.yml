@@ -3,7 +3,7 @@ tagline: Deep Learning Lecture
 
 author:
   name: Michael Hotaling
-  url: https://www.facebook.com/richard.kuo.168
+  url: MichaelHotaling.github.io
 
 plugins:
   - jekyll-feed
@@ -11,7 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-paginate: 3
+paginate: 5
 
 tags_path: /tags/
 categories_path: /categories/
