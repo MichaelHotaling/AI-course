@@ -3,10 +3,8 @@ layout: post
 title: Solving Wordle Using Information Theory
 author: Michael Hotaling]
 category: [Blog]
-tags: [blog, information_theory]
+tags: [Blog]
 ---
-
-# Solving Wordle Using Information Theory
 
 [Wordle](https://www.powerlanguage.co.uk/wordle/) has gone pretty viral in the last couple months. It's a very simple game where you have to guess a five letter word within six guesses. Each guess reveals some information about what letters are in the word and in what positions. The faster you get the word, the better your score. 
 
