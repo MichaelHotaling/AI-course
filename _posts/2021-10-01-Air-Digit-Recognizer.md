@@ -2,7 +2,7 @@
 layout: post
 title: Air Handwritten Digit Recognizer 
 author: [Richard Kuo]
-category: [Lecture]
+category: [project]
 tags: [jekyll, ai]
 ---
 

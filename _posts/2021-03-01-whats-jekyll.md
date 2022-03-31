@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
-category: [Example]
+category: [blog]
 tags: [jekyll]
 ---
 

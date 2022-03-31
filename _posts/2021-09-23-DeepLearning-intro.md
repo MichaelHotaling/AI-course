@@ -2,7 +2,7 @@
 layout: post
 title: Deep Learning Introduction
 author: [Richard Kuo]
-category: [Lecture]
+category: [Project]
 tags: [jekyll, ai]
 ---
 
