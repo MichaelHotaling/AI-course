@@ -2,7 +2,7 @@
 layout: post
 title: What's Jekyll?
 category: [blog]
-tags: [jekyll]
+tags: [blog]
 ---
 
 [Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. 

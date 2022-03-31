@@ -3,7 +3,7 @@ layout: post
 title: Deep Learning Introduction
 author: [Richard Kuo]
 category: [Project]
-tags: [jekyll, ai]
+tags: [project, ai]
 ---
 
 Deep Learning is a broader family of machine learning methods based on artificial neural networks.

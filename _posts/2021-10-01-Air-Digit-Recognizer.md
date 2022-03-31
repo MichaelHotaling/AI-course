@@ -3,7 +3,7 @@ layout: post
 title: Air Handwritten Digit Recognizer 
 author: [Richard Kuo]
 category: [project]
-tags: [jekyll, ai]
+tags: [project, ai]
 ---
 
 空中手寫數字辨識是以手機所錄取之手勢動作資料上傳至Kaggle平台訓練AI模型後,交由電腦啟動辨識服務器, 再以AirDigit App傳送手勢動作之資料至電腦進行辨識。
